@@ -1,0 +1,5 @@
+{
+  "name": "BLT Kesra Desa Komis",
+  "description": "A professional web application for verifying BLT Kesra recipients in Desa Komis, featuring data masking and secure validation.",
+  "requestFramePermissions": []
+}
